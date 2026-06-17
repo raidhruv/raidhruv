@@ -18,9 +18,9 @@ I build things that go beyond notebooks: production-shaped backends, orchestrate
 - **Autonomous-Logistics-Researcher-Agent** — agent-driven research pipeline: query → web search → extraction → synthesis
 
 ### 🎓 Certifications
-IBM–NASSCOM: Generative AI · Agentic AI · DevOps
-AWS Academy: AWS Cloud Foundations . AWS Cloud Architecting
-CISCO Certified Newtworking Academy: Python Essentials 1 . Python Essentials 2
+- IBM–NASSCOM: Generative AI · Agentic AI · DevOps
+- AWS Academy: AWS Cloud Foundations . AWS Cloud Architecting
+- CISCO Certified Newtworking Academy: Python Essentials 1 . Python Essentials 2
 
 ### 📫 Connect
 [LinkedIn] www.linkedin.com/in/dhruv-rai-2b8060235 · Open to AI/ML and backend engineering roles
