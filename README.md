@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/29043123/README.1.md)
 # Hi, I'm Dhruv 👋
 
 AI/ML Engineer focused on **Agentic AI, RAG pipelines, and multi-agent systems** — based in Indore, India.
