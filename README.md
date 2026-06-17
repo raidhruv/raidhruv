@@ -23,7 +23,7 @@ I build things that go beyond notebooks: production-shaped backends, orchestrate
 - CISCO Certified Newtworking Academy: Python Essentials 1 . Python Essentials 2
 
 ### 📫 Connect
-[LinkedIn] www.linkedin.com/in/dhruv-rai-2b8060235 · Open to AI/ML and backend engineering roles
+www.linkedin.com/in/dhruv-rai-2b8060235 · Open to AI/ML and backend engineering roles
 
 ---
 <sub>Currently exploring: cost-optimized self-hosted AI infra, agentic system design, and production RAG.</sub>
